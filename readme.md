@@ -1,7 +1,8 @@
-Readme in Markdown
-==================
+#Readme in Markdown
 
 ##Niki Hausammann, Web-Programmieren 2
+
+##Source
 
 1. [https://github.com/NikiH/depot] (https://github.com/NikiH/depot)
 
